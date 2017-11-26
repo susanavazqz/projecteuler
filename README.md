@@ -1,5 +1,7 @@
 # Project Euler
 
+[![Build Status](https://travis-ci.org/susanavazqz/projecteuler.svg?branch=master)](https://travis-ci.org/susanavazqz/projecteuler)
+
 https://projecteuler.net/about
 
 |Problem| Tittle | Resolved |
